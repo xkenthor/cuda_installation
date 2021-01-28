@@ -56,7 +56,8 @@ sudo apt install libcudnn7
 # fi
 
 printf "\n---------------------------------------------------------------\n\n"
-printf "To complete the installation add following paths to "
+printf "Check carefully the installation logs above.\n\n"
+printf "If all is well complete the installation by adding following paths to "
 printf "\e[0;32m/etc/environment\e[m file:\n\n"
 printf "\e[0;36mPATH\e[m='\e[0;36m\$PATH\e[m:/usr/local/cuda-10.1/bin'\n"
 printf "\e[0;36mLD_LIBRARY_PATH\e[m='/usr/local/cuda-10.1/lib64'\n"
