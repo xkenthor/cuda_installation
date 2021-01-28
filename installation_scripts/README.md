@@ -9,7 +9,7 @@ This folder contains bash scripts for installation following packages:
 
 Installers are named according to the following pattern:
 
-- {distributive-list}\_{nvidia-driver-version}\_{cuda-version}\_{cudnn-version}.sh
+- **{distributive-list}**\_**{nvidia-driver-version}**\_**{cuda-version}**\_**{cudnn-version}**.sh
 
 For example, following name:
 
