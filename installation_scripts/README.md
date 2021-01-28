@@ -15,7 +15,7 @@ For example, following name:
 
 - **mint-ubuntu_418-67_10-1_7-5-1.sh**
 
-means that this file installs the following packages for **Linux-Mint** and **Ubuntu**:
+means that this file installs the following packages for **Linux Mint** and **Ubuntu**:
 - **nvidia-driver-418.67** (NVIDIA driver 418.67)
 - **cuda-10-1** (cuda 10.1)
 - **libcudnn7** (cudnn 7.5.1)
